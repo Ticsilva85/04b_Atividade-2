@@ -1,0 +1,18 @@
+Abaixo temos uma pequena lista com boas práticas de versionamento no Github:
+
+1. Ser objetivo nos comentários dos commits. Exemplo: Esse código vai mudar o método de configuração";
+
+2. Sempre usar os comandos git status, git add, git commit e git push após finalizadas as alterações;
+
+3. Antes de iniciar os commits, é bom criar um arquivo .gitignore para ignorar os arquivos que não precisam ser enviados para o repositório remoto;
+
+4. Definir e obedecer o padrão utilizado para nomes de branchs e commits;
+
+5. Criar arquivo do README com os detalhes das versões, regras combinadas, modo de execução e etc.;
+
+6. Criar branches para cada tarefa é interessantes para localização de bugs;
+
+
+7. Especifique a referência única no nome da branch ou em cada commit;
+
+Além destes, há muitos outros exemplos de boas práticas. É interessante pesquisar e se orientar a importância de conhecê-las.
